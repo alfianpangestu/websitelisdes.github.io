@@ -1,0 +1,13 @@
+HTTrack3.49-2 launched on Mon, 31 Jul 2023 18:17:02 at https://adminlte.io/themes/v3/index.html
+(winhttrack https://adminlte.io/themes/v3/index.html -O "ngetes13/ngestes13" -%v )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+18:20:37	Error: 	"Not Found" (404) at link https://adminlte.io/themes/v3/pages/layout/index3.html (from https://adminlte.io/themes/v3/pages/layout/top-nav.html)
+18:20:37	Error: 	"Not Found" (404) at link https://adminlte.io/themes/v3/plugins/simplemde/simplemde.min.css (from https://adminlte.io/themes/v3/pages/forms/editors.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 12 minutes 11 seconds : 730 links scanned, 727 files written (20045577 bytes overall) [8950269 bytes received at 12243 bytes/sec], 17095071 bytes transferred using HTTP compression in 698 files, ratio 30%, 73.0 requests per connection
+(2 errors, 0 warnings, 0 messages)
